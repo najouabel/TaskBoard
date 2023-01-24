@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.divone{
+  padding: .1rem;
+  margin: 1.1 rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.cards{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: flex-start;
+}
+.headercard{
+    padding: 1.1rem;
+    margin: 1.1rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.bettwen{
+    display: flex;
+    justify-content: space-between;
+}
+.btn-secondary{
+   font-size: xx-small;
+}
+.buttonud{
+    margin-left: 120px;
+}
